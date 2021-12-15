@@ -27,15 +27,15 @@ To use this API you will need to follow some steps and verify if you have some T
 ![portal](https://user-images.githubusercontent.com/80853300/146190824-7a0c2f08-21be-4d82-b726-1122d563ec2f.png)
 
 2 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/?&ef_id=Cj0KCQiAweaNBhDEARIsAJ5hwbeCWuAXf9lRtUeALTSD4k_dZxtU-t16Js5RpJnntKpzFI62UP37aVUaAmy8EALw_wcB:G:s&OCID=AID2200154_SEM_Cj0KCQiAweaNBhDEARIsAJ5hwbeCWuAXf9lRtUeALTSD4k_dZxtU-t16Js5RpJnntKpzFI62UP37aVUaAmy8EALw_wcB:G:s&gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbeCWuAXf9lRtUeALTSD4k_dZxtU-t16Js5RpJnntKpzFI62UP37aVUaAmy8EALw_wcB):
-- Create a free trial Microsoft Azure
-- Create a computer vision azure services 
-- Save all your computer vision azure services keys 1 and 2 (Dont share yours Keys with no one)
+- Create a free trial Microsoft Azure account
+- Create a Computer Vision Azure Service 
+- Save all your Computer Vision Azure Service keys 1 and 2 (Dont share yours Keys with no one)
 
 ![azure](https://user-images.githubusercontent.com/80853300/146192045-7c0e5764-30d5-4648-8830-46417ce69214.png)
 
 3 - [Update api_keys.py](https://github.com/Dufyz/Twitter_ComputerVision_API/blob/main/api_keys.py):
 - Update the api_keys.py with your developer twitter keys and tokens
-- Update the api_keys.py with your Microsoft Azure keys-
+- Update the api_keys.py with your Microsoft Azure keys
 
 ![keypo](https://user-images.githubusercontent.com/80853300/146192386-318d1c47-a4cb-4c91-a18f-1d3cf2794516.png)
 
